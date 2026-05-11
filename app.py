@@ -20,7 +20,7 @@ model = LogisticRegression()
 model.fit(X, Y)
 
 
-st.title('ИИ-помошник в выборе профессии')
+st.title('ИИ-помощник в выборе профессии')
 
 
 st.write('Ответь на вопросы:')
